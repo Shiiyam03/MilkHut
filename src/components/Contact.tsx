@@ -164,14 +164,13 @@ const Contact = () => {
               </div>
             </div>
 
-            <div className="bg-gradient-primary rounded-lg p-6 text-primary-foreground">
+            {/* <div className="bg-gradient-primary rounded-lg p-6 text-primary-foreground">
               <h3 className="text-xl font-bold mb-3">Business Hours</h3>
               <p className="text-primary-foreground/90">
                 Monday - Saturday: 9:00 AM - 6:00 PM<br />
                 Sunday: Closed
-                {/* EDIT: Update business hours */}
               </p>
-            </div>
+            </div> */}
           </motion.div>
         </div>
       </div>
