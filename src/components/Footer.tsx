@@ -57,7 +57,7 @@ const Footer = () => {
             <ul className="space-y-2 text-primary-foreground/80">
               <li>Tamil Nadu, India</li>
               <li>info@barakmilkhut.com</li>
-              <li>+91 XXXXX XXXXX</li>
+              <li>+91 70942 00010</li>
               {/* EDIT: Update contact information */}
             </ul>
           </div>
